@@ -1,0 +1,82 @@
+[
+  {
+	"name": "Cozy Apartment in the City",
+	"address": "123 Main Street",
+	"bedrooms": 2,
+	"carParks": 1,
+	"bathrooms": 1,
+	"image": "image_1"
+  },
+  {
+	"name": "Spacious Family Home",
+	"address": "456 Oak Avenue",
+	"bedrooms": 4,
+	"carParks": 2,
+	"bathrooms": 2,
+	"image": "image_2"
+  },
+  {
+	"name": "Luxury Condo with Stunning Views",
+	"address": "789 Pine Street",
+	"bedrooms": 3,
+	"carParks": 2,
+	"bathrooms": 2,
+	"image": "image_3"
+  },
+  {
+	"name": "Charming Cottage in the Woods",
+	"address": "10 Maple Lane",
+	"bedrooms": 1,
+	"carParks": 1,
+	"bathrooms": 1,
+	"image": "image_4"
+  },
+  {
+	"name": "Modern Townhouse with Rooftop Patio",
+	"address": "234 Elm Street",
+	"bedrooms": 2,
+	"carParks": 1,
+	"bathrooms": 1,
+	"image": "image_5"
+  },
+  {
+	"name": "Elegant Mansion on the Hill",
+	"address": "567 Summit Drive",
+	"bedrooms": 5,
+	"carParks": 3,
+	"bathrooms": 4,
+	"image": "image_6"
+  },
+  {
+	"name": "Quaint Bungalow with Vintage Charm",
+	"address": "890 Chestnut Street",
+	"bedrooms": 2,
+	"carParks": 1,
+	"bathrooms": 1,
+	"image": "image_7"
+  },
+  {
+	"name": "Stylish Loft in the Arts District",
+	"address": "1111 Main Street",
+	"bedrooms": 1,
+	"carParks": 1,
+	"bathrooms": 1,
+	"image": "image_8"
+  },
+  {
+	"name": "Contemporary Penthouse with City Views",
+	"address": "2222 Oak Street",
+	"bedrooms": 3,
+	"carParks": 2,
+	"bathrooms": 3,
+	"image": "image_9"
+  },
+  {
+	"name": "Rustic Cabin by the Lake",
+	"address": "3333 Pine Street",
+	"bedrooms": 1,
+	"carParks": 0,
+	"bathrooms": 1,
+	"image": "image_10"
+  }
+]
